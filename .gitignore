@@ -1,0 +1,19 @@
+# Optional: Add this if you want to keep images local but not commit placeholder images
+# Uncomment the lines below if needed
+
+# images/*.jpg
+# images/*.png
+# images/projects/*.jpg
+# images/projects/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
